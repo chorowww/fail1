@@ -1,0 +1,245 @@
+@media (max-width: 1200px) {
+    .container{
+        width: 90%
+    }
+}
+@media (max-width: 1024px) {
+    #card {
+        background: #000;
+        padding: -31px;
+    }
+
+    #header .header-general a {
+        padding: 18px 27px;
+    }
+
+    #block .block-general a {
+
+        padding: 20px 31px;
+    }
+    #card .card-general__beim {
+        Width: 251px;
+        Height: 495px;
+        padding: 0;
+    }
+    button {
+        width: 169px;
+        height: 49px;
+        font-size: 20px;
+    }
+    #card .card-general div .image {
+        padding-left: 36px;
+        justify-content: center;
+    }
+
+
+.kings-general div p {
+    font-size: 18px;
+    padding: 9px;
+}
+
+
+
+
+    #imen .imen-general {
+        padding: 21px;
+    }
+
+
+
+
+}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {
+    #header .header-general a {
+        padding: 0px 5px;
+    }
+    #menu .menu-general__logo--border h1 {
+        font-size: 55px;
+        line-height: 52px;
+    }
+    #menu .menu-general__logo--border p {
+        font-size: 17px;
+        line-height: 30px;
+        padding-top: 9px;
+    }
+    button {
+        width: 149px;
+        height: 41px;
+        font-size: 17px;
+    }
+    p {
+        padding-left: 5px;
+    }
+    #hov .hov-general div .fa-circle-play {
+
+        padding-left: 18px;
+    }
+    #block .block-general a {
+        padding: 0px 3px;
+    }
+    #block .block-general a {
+
+        font-size: 18px;
+
+    }
+    #box .box-general__logo--border h1 {
+
+        font-size: 57px;
+        line-height: 50px;
+
+    }
+    #start .start-general div .fa-circle-play {
+
+        padding-left: 13px;
+    }
+
+    #imen {
+
+        padding: 0px 0px;
+    }
+    #imen .imen-general div .image {
+        padding-left: 0px;
+        width: 120px;
+    }
+    #kaldy .kaldy-general h1 {
+
+        font-size: 26px;
+        line-height: 87px;
+
+    }
+    .element.style {
+        width: 130px;
+    }
+    #fulir .fulir-general h1 {
+
+        font-size: 17px;
+
+    }
+    #fulir .fulir-general h2 {
+        font-size: 18px;
+    }
+    #hero .hero-general__bil {
+
+        padding: 29px 25px;
+        width: 207px;
+        height: 343px;
+
+    }
+    #hero .hero-general div .image {
+        padding-top: 34px;
+        padding-left: 0px;
+    }
+    #hero .hero-general div .image2 {
+        padding-left: 8px;
+    }
+    #card {
+        padding: 0px;
+    }
+    #card .card-general div .image {
+        padding-left: 32px;
+        justify-content: center;
+        width: 143px;
+        height: 158px;
+    }
+    #card .card-general__beim {
+        Width: 284px;
+        Height: 495px;
+    }
+    .element.style {
+        width: 213px;
+    }
+    .kings-general__form {
+        width: 344px;
+        height: 246px;
+    }
+    #futer .futer-general div {
+        padding: 0px 13px;
+    }
+    #futer .futer-general a {
+
+        font-size: 13px;
+
+    }
+
+
+
+    #header .header-general h1 {
+
+        font-size: 12px;
+        line-height: 10px;
+}
+    #header .header-general .fa-apple {
+        padding: 0 12px;
+        font-size: 21px;
+    }
+}
+@media (max-width: 576px) {
+    #header .header-general a {
+        font-size: 10px;
+    }
+    #header .header-general .fa-apple {
+        font-size: 15px;
+    }
+    #header .header-general .fa-apple {
+
+        padding-left: 21px;
+    }
+    #menu .menu-general__logo--border h1 {
+        font-size: 42px;
+    }
+    #menu .menu-general__logo img {
+        width: 53%;
+    }
+    #menu .menu-general__logo--border p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    button {
+        width: 120px;
+        height: 33px;
+    }
+    #hov .hov-general div .fa-circle-play {
+        padding-left: 9px;
+    }
+    #block .block-general h1 {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    #block .block-general .fa-apple {
+        padding: 0px 16px;
+        font-size: 24px;
+    }
+    #block .block-general a {
+        padding: 0px 1px;
+    }
+    #box .box-general__logo--border h1 {
+        font-size: 41px;
+    }
+    #box .box-general__logo--border p {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    #block .block-general a {
+        font-size: 14px;
+    }
+    #kaldy .kaldy-general h1 {
+        font-size: 22px;
+        line-height: 75px;
+    }
+    #imen .imen-general__bilbeim {
+        padding: 11px 16px;
+    }
+    #tex .tex-general h1 {
+        font-size: 25px;
+    }
+    .element.style {
+        width: 128px;
+        height: 135px;
+    }
+
+
+@media (max-width: 414px) {}
+@media (max-width: 375px) {}
+@media (max-width: 320px) {}
+
